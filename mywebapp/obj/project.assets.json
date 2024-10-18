@@ -8,24 +8,32 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\oktar\\.nuget\\packages\\": {}
+    "C:\\Users\\23351535006\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\oktar\\Desktop\\23351535006_w3_EmreOktar\\mis203-w3-websitee\\mywebapp\\mywebapp.csproj",
+      "projectUniqueName": "C:\\Users\\23351535006\\mis203-w3-websitee\\mywebapp\\mywebapp.csproj",
       "projectName": "mywebapp",
-      "projectPath": "C:\\Users\\oktar\\Desktop\\23351535006_w3_EmreOktar\\mis203-w3-websitee\\mywebapp\\mywebapp.csproj",
-      "packagesPath": "C:\\Users\\oktar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\oktar\\Desktop\\23351535006_w3_EmreOktar\\mis203-w3-websitee\\mywebapp\\obj\\",
+      "projectPath": "C:\\Users\\23351535006\\mis203-w3-websitee\\mywebapp\\mywebapp.csproj",
+      "packagesPath": "C:\\Users\\23351535006\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\23351535006\\mis203-w3-websitee\\mywebapp\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\oktar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\23351535006\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -67,7 +75,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
